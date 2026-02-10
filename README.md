@@ -30,7 +30,7 @@ Full Stack Developer with over 3 years of experience designing and developing sc
 
 Leading development of enterprise-grade, microservice-based web applications using NestJS, MongoDB, and React. Collaborating directly with clients for requirement gathering and architecture design. Ensuring CI/CD deployment, code reviews, and performance optimization.
 
-## **Software Engineer | TalenQ Software India Pvt Ltd | 2022 \- 2024**
+## **Software Engineer | TalenQ Software India Pvt Ltd | 2020 \- 2024**
 
 Developed a cloud-native recruitment management platform integrating AI-driven modules for candidate screening and resume parsing. Built scalable microservices and optimized MongoDB operations to enhance system throughput and reliability.
 
