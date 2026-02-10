@@ -3,7 +3,7 @@
 
 Full Stack Developer | MERN Stack | Next.js, NestJS, React, Node.js & TypeScript | Scalable Web Applications
 
-📧 [rahulkrishdev@gmail.com](mailto:rahulkrishdev@gmail.com) | 📞 \+91-9344167138 | 🌐 [Portfolio](http://rahulkrishnan.dev) | 🌐 [LinkedIn](http://linkedin.com/in/rahulkrishdev)   
+📧 [rahulkrishnantech01@gmail.com](mailto:rahulkrishnantech01@gmail.com) | 📞 \+91-9344167138 | 🌐 [Portfolio](http://rahulkrishnan.dev) | 🌐 [LinkedIn](http://linkedin.com/in/rahulkrishdev)   
 🌐 [GitHub](http://github.com/rahulkrish57) 📍 Coimbatore, India
 
 # **Summary**
